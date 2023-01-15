@@ -43,7 +43,7 @@ Note: Machines running macOS Ventura or systems with non-Metal GPUs cannot enabl
 
 :::warning
 
-If you're unsure whether you should enable SIP, leave it as-is. Systems where you have already ran the Post Install Root Patching cannot enable SIP without potentially breaking the current install.
+If you're unsure whether you should enable SIP, leave it as-is. Systems where you have already run the Post Install Root Patching cannot enable SIP without potentially breaking the current install.
 
 :::
 
